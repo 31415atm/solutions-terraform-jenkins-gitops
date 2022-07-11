@@ -1,4 +1,4 @@
-project_id = "PROJECT_ID"
+project_id = "still-processor-356008"
 environment = "dev"
 subnet1_region = "us-central1"
 subnet1_zone = "us-central1-a"
